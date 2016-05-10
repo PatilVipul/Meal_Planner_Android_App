@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Meal Planer </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="dishes">
+        <item>dosa</item>
+        <item>idly</item>
+        <item>kacchidabeli</item>
+        <item>panipuri</item>
+        <item>pav_bhaji</item>
+        <item>sbdp</item>
+    </string-array>
+
+
+    <string-array name="drawerimages">
+        <item>R.mipmap.burger</item>
+        <item>R.mipmap.burger</item>
+        <item>R.mipmap.burger</item>
+        <item>R.mipmap.burger</item>
+        <item>R.mipmap.burger</item>
+
+
+    </string-array>
+    <string name="title_activity_recipes">Recipes</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string name="mTitle">title</string>
+
+    <string-array name="drawer_items">
+        <item>Planner</item>
+        <item>Recipes</item>
+        <item>Grocery</item>
+        <item>Groups</item>
+        <item>Logout</item>
+    </string-array>
+
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="LoginBtn">Login</string>
+    <string name="SignupBtn">Sign Up</string>
+    <string name="LogoutBtn">Log Out</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="title_activity_recipe">Recipe</string>
+    <string name="title_activity_login_signup">LoginSignupActivity</string>
+    <string name="title_activity_front_page">FrontPage</string>
+    <string name="title_activity_recipepage">recipepage</string>
+    <string name="PREFERENCE_FILE_KEY">mealplanner</string>
+    <string name="pref_previously_started">false</string>
+    <string name="login_previously_displayed">false</string>
+    <string name="title_activity_recipedescription">recipedescription</string>
+
+</resources>
